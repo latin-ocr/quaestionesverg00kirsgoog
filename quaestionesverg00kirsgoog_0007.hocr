@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaestionesverg00kirsgoog_0007.png"; bbox 0 0 3125 4692; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 759 1805 2326 2256">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 759 1805 2326 2256">
+     <span class='ocr_line' id='line_1_1' title="bbox 759 1805 2326 2044; baseline -0.002 -86"><span class='ocrx_word' id='word_1_1' title='bbox 759 1806 1656 1958; x_wconf 79' lang='lat' dir='ltr'><strong>PARENTIBUS</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1749 1805 2326 2044; x_wconf 72' lang='lat' dir='ltr'>OPTIMIS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1335 2119 1746 2256; baseline 0 -17"><span class='ocrx_word' id='word_1_3' title='bbox 1335 2122 1439 2239; x_wconf 90' lang='lat' dir='ltr'>D.</span> <span class='ocrx_word' id='word_1_4' title='bbox 1493 2121 1596 2239; x_wconf 93' lang='lat' dir='ltr'>D.</span> <span class='ocrx_word' id='word_1_5' title='bbox 1651 2119 1746 2256; x_wconf 83' lang='lat' dir='ltr'>Q.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1227 2395 1875 2463">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1227 2395 1875 2463">
+     <span class='ocr_line' id='line_1_3' title="bbox 1227 2395 1875 2463; baseline -0.003 -1"><span class='ocrx_word' id='word_1_6' title='bbox 1227 2395 1875 2463; x_wconf 78' lang='lat' dir='ltr'><strong>SCRIPTOR.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1344 2685 1755 2694">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1344 2685 1755 2694">
+     <span class='ocr_line' id='line_1_4' title="bbox 1344 2685 1755 2694; baseline 0 1998"><span class='ocrx_word' id='word_1_7' title='bbox 1344 2685 1755 2694; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
